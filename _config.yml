@@ -1,7 +1,7 @@
-site: Asko
-url: #yoururl
-title: Asko
-description: Simple and minimalistic jekyll blogging theme.
+site: Pieter Schuur,ams
+url: pieterschuurmans.nl
+title: Pieter Schuurmans
+description: Personal website
 googlewebfonts: Fira+Code:wght@400;500;700
 twitter:
   username: #yourusername
@@ -9,9 +9,9 @@ twitter:
   creator: #yourusername
 author:
   twitter: #yourusername
-  name: #yourusername
+  name: Pieter Schuurmans
   avatar:
-  email: #youremail
+  email: schuurmans.pieter@gmail.com
   url: #yoururl
 permalink: pretty
 
